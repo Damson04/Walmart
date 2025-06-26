@@ -1,5 +1,8 @@
 # Walmart
 
+![image_alt].(https://github.com/Damson04/Walmart/blob/main/Walmart_Canada_Corp__Canada_s_newest_Walmart_Supercentre_opens_i.jpeg?raw=true)
+
+
 --- Walmart Sales Data Analysis | SQL Project
   -- This project explores key business insights from a Walmart sales dataset using advanced SQL techniques including aggregations, 
   --window functions, CTEs, and date transformations. Below are the core questions addressed, the SQL logic applied, and key insights derived.
