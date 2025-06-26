@@ -7,7 +7,7 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------
 -- 1. Payment Method Analysis
 	-- Objective: Determine the number of transactions and total quantity sold per payment method.
-
+'''sq
 SELECT 
     payment_method,
     COUNT(*) AS total_transactions,
@@ -15,6 +15,7 @@ SELECT
 FROM walmart
 GROUP BY payment_method
 ORDER BY total_transactions DESC;
+'''
 
 --Insights:
 	-- Understand how customers prefer to pay.
