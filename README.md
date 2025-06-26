@@ -1,6 +1,7 @@
 # Walmart
 
-![image_alt].(https://github.com/Damson04/Walmart/blob/main/Walmart_Canada_Corp__Canada_s_newest_Walmart_Supercentre_opens_i.jpeg?raw=true)
+![Walmart Supercentre](https://github.com/Damson04/Walmart/blob/main/Walmart_Canada_Corp__Canada_s_newest_Walmart_Supercentre_opens_i.jpeg?raw=true)
+
 
 
 --- Walmart Sales Data Analysis | SQL Project
